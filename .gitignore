@@ -53,7 +53,6 @@ dkms.conf
 
 # Others
 *.LST
-*.asm
 *.plg
 *.M51
 *.lnp
