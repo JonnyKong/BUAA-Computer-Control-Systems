@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Others
+*.LST
+*.asm
+*.plg
+*.M51
+*.lnp
+*.uv2
+*.OBJ
